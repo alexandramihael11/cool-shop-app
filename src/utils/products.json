@@ -1,0 +1,224 @@
+{
+    "tops": {
+        "items": [
+            {
+                "id": 1,
+                "name": "Tricou Zara",
+                "price": 199,
+                "currency": "LEI",
+                "image": "https://media.istockphoto.com/photos/blank-black-tshirt-front-with-clipping-path-picture-id483960103?k=20&m=483960103&s=612x612&w=0&h=H4TNt5SOmcNIRMqrKY7J5u2Yy-f0ZZbD_Dsqqw3if1I=",
+                "size": 45,
+                "colour": "Negru",
+                "material": "Bumbac",
+                "brand": "Zara",
+                "description": "Tricou negru  de buna calitate."
+            },
+            {
+                "id": 2,
+                "name": "Camasa Polo Ralph Lauren ",
+                "price": 120,
+                "currency": "LEI",
+                "image": "https://media.istockphoto.com/photos/womens-light-blouse-isolated-on-white-background-picture-id1218433118?b=1&k=20&m=1218433118&s=170667a&w=0&h=R7QoOOEU9J512iIHCPZRuUhaH18xELD2QqnO9iCgffs=",
+                "size": 45,
+                "colour": "Roz",
+                "material": "Poliester",
+                "brand": "Polo Ralph Lauren",
+                "description": "Camasa roz cu funda."
+            },
+            {
+                "id": 3,
+                "name": "Maieu alb Bershka",
+                "price": 85,
+                "currency": "LEI",
+                "image": "https://media.istockphoto.com/photos/white-tank-top-mock-up-plain-hollow-female-tank-top-shirt-isolated-on-picture-id1256454736?k=20&m=1256454736&s=612x612&w=0&h=U1CYUaNNP8jt2KhpGGEtZUbMTPJsCZOcolcnjBCE8WY=",
+                "size": 45,
+                "colour": "Alb",
+                "material": "Bumbac",
+                "brand": "Bershka",
+                "description": "Maieu alb din bumbac 100%."
+            }
+        ],
+        "image": "https://media.istockphoto.com/photos/fashion-clothes-on-a-rack-in-a-light-background-indoors-place-for-picture-id1257563298?k=20&m=1257563298&s=612x612&w=0&h=E0WQunndzwymrEI_k4cMKXaGUYDtnMaVa7cnOP-teEg=",
+        "name": "Top si body-uri",
+        "description": "Camasi,bluze,tricouri"
+    },
+    "jackets": {
+        "items": [
+            {
+                "id": 4,
+                "name": "Jacheta din blugi",
+                "price": 95,
+                "currency": "LEI",
+                "image": "https://media.istockphoto.com/photos/jacket-on-clothes-rack-picture-id613684626?k=20&m=613684626&s=612x612&w=0&h=O0Ag6_T8lFKi3q8cKTxk4EsbO3fEgG8kocI_Z8pdeaw=",
+                "size": "L",
+                "colour": "Albastru",
+                "material": "Blug",
+                "brand": "DS Damat",
+                "description": "Jacheta din blugi colecția toamnă-iarnă 2021."
+            },
+            {
+                "id": 5,
+                "name": "Geaca de piele",
+                "price": 99,
+                "currency": "LEI",
+                "image": "https://media.istockphoto.com/photos/classic-black-leather-bikers-jacket-with-lining-shot-from-the-front-picture-id885931726?k=20&m=885931726&s=612x612&w=0&h=C1Uo2IWtQ3Y2dYQG-SgQi5xuagM10C3-mq3SPlQ71iQ=",
+                "size": "L",
+                "colour": "Negru",
+                "material": "Piele",
+                "brand": "Zara",
+                "description": "Geaca de piele ecologica."
+            },
+            {
+                "id": 6,
+                "name": "Geaca de fas",
+                "price": 199,
+                "currency": "LEI",
+                "image": "https://media.istockphoto.com/photos/blue-baby-coat-child-fashion-wear-isolated-nobody-picture-id830738010?k=20&m=830738010&s=612x612&w=0&h=pZ3Mf4qUcxgxrkwe3mcLz4BGeWGrxkvkU3z8OXghuSM=",
+                "size": "M",
+                "colour": "Albastru",
+                "material": "Fas",
+                "brand": "SELECTED",
+                "description": "Geaca de fas pentru ploaie."
+            },
+            {
+                "id": 7,
+                "name": "Blazer",
+                "price": 300,
+                "currency": "LEI",
+                "image": "https://media.istockphoto.com/photos/blue-womens-insulated-jacket-in-white-background-invisible-mannequin-picture-id1092378606?k=20&m=1092378606&s=612x612&w=0&h=yqedgOnHPt54yfQvXdgl_LABpf-M6PjRBRmZhqQ6eAA=",
+                "size": "L",
+                "colour": "Albastru",
+                "material": "Poliester",
+                "brand": "Massimo Dutti",
+                "description": "Blazer potrivit pentru evenimente importante."
+            }
+        ],
+        "image": "https://media.istockphoto.com/photos/fishing-vests-collection-on-hanger-at-the-market-picture-id1162987227?k=20&m=1162987227&s=612x612&w=0&h=rnasQfWLZ40Zo_0XZeNjOwhsktXabIsdY3QcCJ6zQwY=",
+        "name": "Jachete",
+        "description": "Jachete,blazer,geaca"
+    },
+    "pants": {
+        "items": [
+            {
+                "id": 8,
+                "name": "Blugi bleumarin slim fit",
+                "price": 135,
+                "currency": "LEI",
+                "image": "https://media.istockphoto.com/photos/beautiful-denim-pants-picture-id639511940?k=20&m=639511940&s=612x612&w=0&h=eLV8wuAKboPSqAvWNSEqU7ME5vJs50F8X6peJO5WNZg=",
+                "size": "36",
+                "colour": "Bleumarin închis",
+                "material": "Blug",
+                "brand": "Stradivarius",
+                "description": "Blugi bleumarin, slim fit, colecția primăvară-vară 2021."
+            },
+            {
+                "id": 9,
+                "name": "Pantaloni de piele",
+                "price": 240,
+                "currency": "LEI",
+                "image": "https://media.istockphoto.com/photos/red-jeans-isolated-on-white-background-picture-id1085234936?k=20&m=1085234936&s=612x612&w=0&h=8VTjbqEW6RdiCUr_7Fg5uucu6xl5bPrDflJqKaRbgXQ=",
+                "size": "32",
+                "colour": "Visiniu",
+                "material": "Piele",
+                "brand": "Zara",
+                "description": " Pantaloni de piele Zara."
+            }
+        ],
+        "image": "https://media.istockphoto.com/photos/stylish-jeans-clothing-store-stands-showcase-boutique-picture-id1148893542?k=20&m=1148893542&s=612x612&w=0&h=UZrZZ0SCVZTf6IfwlpDTVyDXD0YNtTk7GEuqtpI6CeU=",
+        "name": "Pantaloni/blugi",
+        "description": "Jeans,pantaloni la moda."
+    },
+    "dresses": {
+        "items": [
+            {
+                "id": 10,
+                "name": "Rochie de ocazie",
+                "price": 250,
+                "currency": "LEI",
+                "image": "https://media.istockphoto.com/photos/flowery-evase-bateau-yellow-dress-picture-id178851955?k=20&m=178851955&s=612x612&w=0&h=PbB6SOjyZNIzTYr3qC7IY-qn1tsWWHyojRfs4XB8WhM=",
+                "size": "L",
+                "colour": "Galben",
+                "material": "Tul",
+                "brand": "Peek and Cloppenburg",
+                "description": "Rochie galbena cu flori pentru ocazie."
+            },
+            {
+                "id": 11,
+                "name": "Rochie de zi",
+                "price": 100,
+                "currency": "LEI",
+                "image": "https://media.istockphoto.com/photos/woman-dress-picture-id184354439?k=20&m=184354439&s=612x612&w=0&h=BRKqV53UfwbJkRA72WXgzzCxfOQVPPHFANxOMJoSrUQ=",
+                "size": "XL",
+                "colour": "Rosu",
+                "material": "Poliester",
+                "brand": "Zara",
+                "description": "Rochie de zi cu picatele albastru."
+            }
+        ],
+        "image": "https://media.istockphoto.com/photos/fashionable-clothes-in-a-boutique-store-in-london-picture-id653003428?k=20&m=653003428&s=612x612&w=0&h=fz1l9s2zic9O9eXa_81972QcJxZ8rlqtei99wrfE7GM=",
+        "name": "Rochii",
+        "description": "De ocazie,de zi."
+    },
+    "pijamas": {
+        "items": [
+            {
+                "id": 12,
+                "name": "Pantaloni de pijama",
+                "price": 85,
+                "currency": "LEI",
+                "image": "https://media.istockphoto.com/photos/pajamas-pants-for-woman-picture-id1094597332?k=20&m=1094597332&s=612x612&w=0&h=Ya3n_c-P7oZP-a12GbuCGxhYGe-28g9rarF5nctn2x8=",
+                "size": "L",
+                "colour": "Multicolor",
+                "material": "Bumbac",
+                "brand": "Pepco",
+                "description": "Pantaloni de pijama cu patratele rosii."
+            },
+            {
+                "id": 13,
+                "name": "Bluza de pijama",
+                "price": 450,
+                "currency": "LEI",
+                "image": "https://media.istockphoto.com/illustrations/basics-night-shirt-watercolour-illustration-illustration-id932267524?k=20&m=932267524&s=612x612&w=0&h=iPSP_kioI2urnfPWIhrE4zTDx8W_2clE_7uX3pPJ8ng=",
+                "size": "M",
+                "colour": "Roșu",
+                "material": "Bumbac",
+                "brand": "Gucci",
+                "description": "Bluza de pijama calduroasa."
+            }
+        ],
+        "image": "https://media.istockphoto.com/photos/pink-pajamas-on-white-wooden-surface-night-suit-for-sleeping-copy-picture-id1164086379?k=20&m=1164086379&s=612x612&w=0&h=2RRcEs5BgSUibh6isvTQaQL7q_qrXKCdGJjfIs-i8Ys=",
+        "name": "Pijamale",
+        "description": "Pijamale confortabile."
+    },
+    "shoes": {
+        "items": [
+            {
+                "id": 15,
+                "name": "Ghete de iarna",
+                "price": 550,
+                "currency": "LEI",
+                "image": "https://media.istockphoto.com/photos/yellow-boots-picture-id474862754?k=20&m=474862754&s=612x612&w=0&h=uY86tlb4bOci41lBrRWbyI60oNLtc-0uk-PHxzK4BrI=",
+                "size": "Universal",
+                "colour": "Galben",
+                "material": "Waterproof",
+                "brand": "Timberland",
+                "description": "Ghete de iarna de calitate inalta."
+            },
+            {
+                "id": 16,
+                "name": "Pantofi cu toc",
+                "price": 160,
+                "currency": "LEI",
+                "image": "https://media.istockphoto.com/photos/red-female-shoes-on-a-white-background-picture-id949599044?k=20&m=949599044&s=612x612&w=0&h=FkpZbJupB0aANOpW7y4cVQeKZgGtA0c2XFSMxQh8mJA=",
+                "size": "38",
+                "colour": "Rosu",
+                "material": "Piele",
+                "brand": "Alexander McQueen",
+                "description": "Pantofi cu toc eleganti."
+            }
+        ],
+        "image": "https://media.istockphoto.com/photos/great-sneaker-picture-id1079117394?k=20&m=1079117394&s=612x612&w=0&h=rUuc5v_-8uckfumKljOD0RkgfPtRWcV0c8n2MI1BS6w=",
+        "name": "Incaltaminte",
+        "description": "Ghete,pantofi."
+    }
+}
